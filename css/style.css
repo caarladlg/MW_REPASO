@@ -1,3 +1,17 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*este selecctor universal * selecciona todos los elementos del HTML*/
+
 body {
     background-color: aqua;
+}
+body > div {
+    padding: 3rem;
+    background-color: pink;
+    border: 4px maroon solid;
 }
