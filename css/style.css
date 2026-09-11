@@ -1,7 +1,7 @@
 {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing; border-box;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,4 +14,10 @@ body > div {
     padding: 3rem;
     background-color: pink;
     border: 4px maroon solid;
+}
+h1 {
+    color: rgb(131, 133, 255);
+}
+h2 {
+    color: rgb(226, 255, 158);
 }

@@ -13,3 +13,7 @@ para hacer un comentario de codigo alt+ç
 
 para ajuste de linea alt+z o en view>>word wrap
 
+1 cambiar color de h1 y h2 (diferentes colores)
+2 cenrtar h1 y h2
+3 añadir al div una clase de container y seleccionarla desde el css
+4 centrar div con clase container en el eje vertical y horizontal
